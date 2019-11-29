@@ -31,7 +31,7 @@ Completely undo it, throwing away all uncommitted changes,
  `$ git reset --hard HEAD^`
  
 --------------------------------------------  
- Begin Workflow
+ Simple Workflow
 -------------------------------------------- 
 Clone the Repo to local machine:<br>
  `$ git clone https://github.com/user_name/repo_name.git`
