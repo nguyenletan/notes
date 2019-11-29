@@ -14,7 +14,7 @@ Add branch and files to the Remote Repo:
 --------------------------------------------
  Managing your Local Repo
 --------------------------------------------
-NOTE: If you need to hard reset your local repo to match 
+If you need to hard reset your local repo to match 
        the remote master use the following commands:<br>
  `$ git fetch origin`<br>
  `$ git reset --hard origin/master`<br>
