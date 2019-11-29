@@ -1,5 +1,5 @@
 --------------------------------------------
-Simple workflow
+Simple Git
 --------------------------------------------
 
 Add the files to the branch:
